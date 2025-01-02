@@ -1,6 +1,6 @@
 # CSS Practice File
 
-This repository contains a simple project for practicing CSS skills. The project is a business card layout that you can style using various CSS techniques.
+This repository contains a simple project for practicing CSS skills. The project is a business card layout that I styled using various CSS techniques.
 
 ## Project Structure
 
